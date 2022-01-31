@@ -28,11 +28,11 @@
 </defs>
 
 <g transform="scale(3.25) translate(5.055 20.166)">
-<use xlink:href="#bkn"/>
+<use xlink:href="#sct"/>
 </g>
 
 <g transform="scale(1.2) translate(34.167 399.725)">
-<use xlink:href="#bkn"/>
+<use xlink:href="#rasn"/>
 </g>
 <g transform="scale(1.2) translate(200 399.725)">
 <use xlink:href="#sn"/>
@@ -44,37 +44,37 @@
 <g font-family="DejaVu Sans">
 <text style="text-anchor:middle;" font-size="35px" y="52.256058" x="76.039063">Today:</text>
 <text style="text-anchor:middle;" font-size="35px" y="121.70689" x="446.26932">High:</text>
-<text style="text-anchor:end;" font-size="100px" y="209.20592" x="526.72095">40</text>
+<text style="text-anchor:end;" font-size="100px" y="209.20592" x="526.72095">30</text>
 <text style="text-anchor:middle;" font-size="64px" y="182.48717" x="548.30981">°F</text>
 <text style="text-anchor:middle;" font-size="35px" y="275.13895" x="440.80057">Low:</text>
-<text style="text-anchor:end;" font-size="100px" y="359.8533" x="526.23267">28</text>
+<text style="text-anchor:end;" font-size="100px" y="359.8533" x="526.23267">24</text>
 <text style="text-anchor:middle;" font-size="64px" y="333.13455" x="548.30981">°F</text>
 
 <text style="text-anchor:middle;" font-size="32px" y="465.16922" x="102.92969">Tomorrow:</text>
 <text style="text-anchor:middle;" font-size="20px" y="635.68347" x="74.958336">High:</text>
-<text style="text-anchor:end;" font-size="48px" y="676.3255" x="116.05887">36</text>
+<text style="text-anchor:end;" font-size="48px" y="676.3255" x="116.05887">40</text>
 <text style="text-anchor:middle;" font-size="37px" y="670.86145" x="134.01662">°F</text>
 <text style="text-anchor:middle;" font-size="20px" y="724.48578" x="71.906197">Low:</text>
-<text style="text-anchor:end;" font-size="48px" y="763.51617" x="116.00232">25</text>
+<text style="text-anchor:end;" font-size="48px" y="763.51617" x="116.00232">26</text>
 <text style="text-anchor:middle;" font-size="37px" y="758.05206" x="134.01663">°F</text>
 
-<text style="text-anchor:middle;" font-size="32px" y="466.15359" x="300.3125">Tuesday:</text>
+<text style="text-anchor:middle;" font-size="32px" y="466.15359" x="300.3125">Wednesday:</text>
 <text style="text-anchor:middle;" font-size="20px" y="635.68347" x="273.95834">High:</text>
-<text style="text-anchor:end;" font-size="48px" y="676.3255" x="314.15454">35</text>
+<text style="text-anchor:end;" font-size="48px" y="676.3255" x="314.15454">28</text>
 <text style="text-anchor:middle;" font-size="37px" y="670.86145" x="333.01663">°F</text>
 <text style="text-anchor:middle;" font-size="20px" y="724.48578" x="270.90619">Low:</text>
-<text style="text-anchor:end;" font-size="48px" y="763.51617" x="314.08383">27</text>
+<text style="text-anchor:end;" font-size="48px" y="763.51617" x="314.08383">15</text>
 <text style="text-anchor:middle;" font-size="37px" y="758.05206" x="333.0166">°F</text>
 
-<text style="text-anchor:middle;" font-size="32px" y="466.15359" x="499.82813">Wednesday:</text>
+<text style="text-anchor:middle;" font-size="32px" y="466.15359" x="499.82813">Thursday:</text>
 <text style="text-anchor:middle;" font-size="20px" y="635.68347" x="472.95834">High:</text>
-<text style="text-anchor:end;" font-size="48px" y="676.3255" x="513.30994">36</text>
+<text style="text-anchor:end;" font-size="48px" y="676.3255" x="513.30994">19</text>
 <text style="text-anchor:middle;" font-size="37px" y="670.86145" x="532.0166">°F</text>
 <text style="text-anchor:middle;" font-size="20px" y="724.48578" x="469.90619">Low:</text>
-<text style="text-anchor:end;" font-size="48px" y="763.51617" x="513.73383">26</text>
+<text style="text-anchor:end;" font-size="48px" y="763.51617" x="513.73383">2</text>
 <text style="text-anchor:middle;" font-size="37px" y="758.05206" x="532.0166">°F</text>
 
-<text style="text-anchor:middle;" font-size="12px" y="780" x="300">11/25/2012 12:0</text>
+<text style="text-anchor:middle;" font-size="12px" y="780" x="300">1/30/2022 19:36</text>
 </g>
 
 <path d="m199,447.35,0,321.5,3,0,0-321.5-3,0z"/>

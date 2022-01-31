@@ -8,7 +8,7 @@
 # http://www.shatteredhaven.com/2012/11/1347365-kindle-weather-display.html
 # no other changes made
 
-import urllib2
+import urllib.request
 from xml.dom import minidom
 import datetime
 import codecs
@@ -20,7 +20,7 @@ import codecs
 #
 
 # Fetch data (change lat and lon to desired location)
-weather_xml = urllib2.urlopen('http://graphical.weather.gov/xml/SOAP_server/ndfdSOAPclientByDay.php?whichClient=NDFDgenByDay&lat=42.9133&lon=-85.7053&format=24+hourly&numDays=4&Unit=e').read()
+weather_xml = urllib.request.urlopen('http://graphical.weather.gov/xml/SOAP_server/ndfdSOAPclientByDay.php?whichClient=NDFDgenByDay&lat=42.9133&lon=-85.7053&format=24+hourly&numDays=4&Unit=e').read()
 dom = minidom.parseString(weather_xml)
 
 # Parse temperatures
